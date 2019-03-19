@@ -1,0 +1,1 @@
+class Insumos(var nome: String, var preco: Int)

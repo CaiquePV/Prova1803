@@ -1,0 +1,1 @@
+class Equipamentos(var nome: String, var custo: Int)

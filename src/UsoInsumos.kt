@@ -1,0 +1,1 @@
+class UsoInsumos(var insumo: Insumos, var quantidade: Int)
